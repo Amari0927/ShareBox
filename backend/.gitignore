@@ -1,0 +1,37 @@
+# Dependencies
+/node_modules
+/jspm_packages/
+
+# Compiled/Build output
+/dist
+/build
+/out
+/es
+
+# Logs
+*.log
+npm-debug.log
+yarn-error.log
+
+# Environment variables and sensitive data
+.env
+.env.local
+.env.*
+
+# Tests
+/coverage
+/.nyc_output
+
+# Temporary Files
+*.tmp
+
+# IDE/OS Specific
+.DS_Store
+Thumbs.db
+/.vscode
+.idea
+
+# Node.js specific files (that are usually transient)
+/pids
+/logs
+/runs
